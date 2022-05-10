@@ -1,6 +1,6 @@
 # DL4Reservoir_Characterisation
 This repository contains test files for the ongoing project: Deep learning for reservoir characterisation
-The codes are written 100% in python and can be run by simply running the Jupyter notebook file provided. The test dataset and the pre-trained CNN model can be downloaded here: https://drive.google.com/drive/folders/18YsnLPENU55DueXEjtd-ymN3IgvGjF8r?usp=sharing
+The codes are written 100% in python and can be run by simply running the Jupyter notebook file provided. The pre-trained CNN model can be downloaded here: https://drive.google.com/drive/folders/18YsnLPENU55DueXEjtd-ymN3IgvGjF8r?usp=sharing
 
 Requirements:
 
