@@ -12,4 +12,4 @@ Keras version 2.24 and above
 
 Execution:
 
-Download/ clone the repository and unzip it to a preferable location on your computer. Download the test dataset and place them in the same directory with the python files. Navigate to the location of the files and open the jupyter notebook on your browser, import the files and run them or copy the code to a new notebook and execute.
+Download/ clone the repository and unzip it to a preferable location on your computer. Download the test dataset and place them in the same directory with the jupyter-notebook. Navigate to the location of the files and open the jupyter notebook on your browser, import the files and run them or copy the code to a new notebook and execute.
